@@ -14,3 +14,6 @@ bài tập in ra màn hình từ 1 -> 10
 -> câu lệnh in giá trị ra màn hình
 -> tạo mảng
 -> vòng lặp for, while
+
+
+link bài tập: https://viettuts.vn/bai-tap-python/bai-tap-vong-lap-trong-python
