@@ -1,0 +1,16 @@
+1. dạng dữ liệu
+    3 dạng cơ bản
+        1-> string
+        2-> int
+        3-> array (mảng)
+
+2. cách code
+    1-> kết thúc câu lệnh không có dấu gì hết
+    2-> câu lệnh như if, for kết thúc bằng dấu: dòng lệnh con sẽ lùi vào dầu dòng 1 khoảng
+
+
+bài tập in ra màn hình từ 1 -> 10
+-> cách tạo biến số với int
+-> câu lệnh in giá trị ra màn hình
+-> tạo mảng
+-> vòng lặp for, while
